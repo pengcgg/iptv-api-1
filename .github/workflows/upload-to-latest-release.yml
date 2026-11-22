@@ -1,4 +1,4 @@
-name: Build and upload to latest release
+name: 构建并上传到最新版本
 
 on:
   workflow_dispatch:
