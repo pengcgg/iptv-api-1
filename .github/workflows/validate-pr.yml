@@ -1,4 +1,4 @@
-name: Validate PRs and close invalid ones
+name: 验证pr并关闭无效pr
 
 on:
   pull_request_target:
